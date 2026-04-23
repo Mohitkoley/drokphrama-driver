@@ -9,7 +9,7 @@ class AppConstants {
   ///Flutter sdk 3.41.6
   static const String fontFamily = 'Roboto';
   static const AppMode appMode = AppMode.delivery;
-  static const String baseUrl = 'https://drokpharma.in/admin/login/admin';
+  static const String baseUrl = 'https://drokpharma.in/admin';
 
   static const String polylineMapKey =
       'AIzaSyCPz0eB4Nf8Ng9uu5xvd6zUeuprqR0Si5c';
