@@ -37,7 +37,7 @@
 
     <application
         tools:replace="android:label"
-        android:label="Drok Phrama Driver"
+        android:label="Drok Pharma Driver"
         android:name="${applicationName}"
         android:extractNativeLibs="true"
         android:requestLegacyExternalStorage="true"

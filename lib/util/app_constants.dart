@@ -3,7 +3,7 @@ import 'package:sixam_mart_delivery/util/enums.dart';
 import 'package:sixam_mart_delivery/util/images.dart';
 
 class AppConstants {
-  static const String appName = 'Drok Phrama Driver';
+  static const String appName = 'Drok Pharma Driver';
   static const double appVersion = 1.0;
 
   ///Flutter sdk 3.41.6
