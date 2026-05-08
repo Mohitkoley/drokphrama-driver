@@ -28,7 +28,7 @@ Future<void> main() async {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
         apiKey: "AIzaSyAIFqtHnGhp5STM0TVqikOKr2I-0SMQvY8",
-        appId: "1:789606222810:android:d6858acd0244daed520ee3",
+        appId: "1:789606222810:android:94e8928842dea000520ee3",
         messagingSenderId: "789606222810",
         projectId: "drokpharma",
       ),

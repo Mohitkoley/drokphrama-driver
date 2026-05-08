@@ -1,4 +1,4 @@
-package com.drokpharma.driver
+package com.drokpharma.drive
 
 import io.flutter.embedding.android.FlutterActivity
 
